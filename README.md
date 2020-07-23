@@ -1,12 +1,13 @@
 # Table of Contents 
 ## Projects by Keith Musig
 
-- [Reading Notes](https://github.com/musigman/reading-notes/blob/master/README.md)
-- [The Coder's Computer](https://github.com/musigman/reading-notes/blob/master/coders-computer.md)
+
+- [The Coder's Computer](coders-computer.md)
 - [First HTML Page](https://musigman.github.io/first-html-page/.)
-- [Designing HTML Pages](https://github.com/musigman/reading-notes/blob/master/des-html.md)
-- [Reflections in the Cloud](https://github.com/musigman/reading-notes/blob/master/refcloud.md)
-- [Growth Mindset](https://musigman.github.io/reading-notes/)
-- [Designing Web Pages with CSS](X)
-- [Computer Architecture and Logic](https://github.com/musigman/reading-notes/blob/master/carch-logic.md)
-- [Dynamic Web Pages with Javascript]()
+- [Designing HTML Pages](des-html.md)
+- [Reflections in the Cloud](refcloud.md)
+- [Growth Mindset](growth-mindset.md)
+- [Designing Web Pages with CSS](css.md)
+- [Computer Architecture and Logic](carch-logic.md)
+- [Dynamic Web Pages with Javascript](dweb-javascript.md)
+- [Operators and Loops](operators-loops.md)

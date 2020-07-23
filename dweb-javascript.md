@@ -28,4 +28,4 @@ if (hourNow > 18) {
 }
 document.write('<h3>' + greeting + '</h3>');
 
-[<== Back to Table of Contents](../readme.md)
+[<== Back to Table of Contents](README.md)

@@ -16,3 +16,5 @@ Script: A series of instructions that a computer can follow to achieve a goal.
 
 ## End Goal: 
 Creating instructions that a computer can follow to make the website interactive.
+
+[<== Back to Table of Contents](README.md)
