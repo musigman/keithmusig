@@ -1,17 +1,12 @@
-# Growth Mindset
-**Characteristics of Growth mindset include:**
-* Embracing Challenges 
-* Accepting Critism 
-* Being inspired by the success of others.
+# Table of Contents 
+## Projects by Keith Musig
 
-Personally I believe following elements of this mindset will contribute to my success at Codefellows.
-I'm excited about this new learning chapter.
-
-Here is my Musician website
-http://www.keithmusig.com 
-
-Favorite Monty Python song:
-
-> Always look on the Bright Side of Life
-
-[<== Back to Table of Contents](../readme.md)
+- [Reading Notes](https://github.com/musigman/reading-notes/blob/master/README.md)
+- [The Coder's Computer](https://github.com/musigman/reading-notes/blob/master/coders-computer.md)
+- [First HTML Page](https://musigman.github.io/first-html-page/.)
+- [Designing HTML Pages](https://github.com/musigman/reading-notes/blob/master/des-html.md)
+- [Reflections in the Cloud](https://github.com/musigman/reading-notes/blob/master/refcloud.md)
+- [Growth Mindset](https://musigman.github.io/reading-notes/)
+- [Designing Web Pages with CSS](X)
+- [Computer Architecture and Logic](https://github.com/musigman/reading-notes/blob/master/carch-logic.md)
+- [Dynamic Web Pages with Javascript]()
