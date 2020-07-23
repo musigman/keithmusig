@@ -9,7 +9,7 @@ Javascript syntax is made up of the following:
 - Variables
 - Path TypesThese tags are a part of the functionality and interact with the web browser to create user interaction.
 
-![alt text](../images/jscript.jpg)
+![alt text](images/jscript.jpg)
 
 # My first time copying Javascript
 

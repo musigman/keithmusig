@@ -10,7 +10,7 @@ A *.css file* is a separate styling sheet that is linked from HTML code so the s
 - outlines
 - solid and opaque colors
 
-![alt text](../images/css.png)
+![alt text](images/css.png)
 
 **CSS 3** is the most current version and handles a variety of color formats including: *RGB, Hex Code, RGBA and HSLA.* The latter 2 options on this list are my favorite because it gives the designer opacity options.
 
