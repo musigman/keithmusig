@@ -19,4 +19,4 @@ Visual hierarchy is emphasizing the most important areas larger and the least im
 - Articles
 - Footer
 
-While HTML creates the website structure. CSS is how we style the website. CSS allows us to style a website using appealing fonts, color schemes
+While HTML creates the website structure. CSS is how we style the website. CSS allows us to style a website using appealing fonts, color schemes.
