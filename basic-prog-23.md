@@ -8,7 +8,7 @@ How do I write script for a web page?
 
 Script: A series of instructions that a computer can follow to achieve a goal.
 
-## State the Goal
+## State the Goal:
 
 - Define
 - Design
