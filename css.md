@@ -11,8 +11,4 @@ A .css file is a separate styling sheet that is linked from HTML code so the sty
 - solid and opaque colorsCSS 3 is the most current version and handles a variety of color formats including: RGB, RGBA, Hex Code and HSLA. The latter 2 options on this list are my favorite because it gives the designer opacity options.
 
 
-- [Designing Web Pages with CSS](X)
-- [Computer Architecture and Logic](X)
-- [Dynamic Web Pages with Javascript](X)
-
 [<== Back to Table of Contents](README.md)
