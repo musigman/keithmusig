@@ -1,19 +1,20 @@
 # 08 Operators & Loops
-
+![alt text](images/javascript2.jpg)
 Another new language... This reading broke down elements of javascript. Boolean: True or False
 
 ### Semantic Symbols used in the code
 
-> Greater than
-< Less than
-<= Less or equal to
+
+- Greater than
+- Less than
+- Less or equal to
 
 ### Locgistical operators
 - comparison and logical operators
 
-- && logical and
-- || logical or
-- ! Logical not
+- logical and
+- logical or
+- Logical not
 
 ### Loops
 Loops check a condition. If the condition returns true, a code block will run. 
